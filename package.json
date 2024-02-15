@@ -1,0 +1,23 @@
+{
+  "name": "generator-minimal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "test": "vitest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.3.3",
+    "yeoman-generator": "^7.1.1"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "files": [
+    "generators"
+  ]
+}
